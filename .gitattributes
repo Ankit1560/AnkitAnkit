@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+def dtmak():
+     l=[["chem1",2,"opening closing time",{"med1":43,"med2":0,"med3":456}],["chem2",21,"opening closing time",{"med1":143,"med2":20,"med3":46}],["chem3",25,{”med1":456,"med2":57,"med3":0}]]
